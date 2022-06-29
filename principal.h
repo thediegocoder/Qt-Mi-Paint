@@ -2,6 +2,15 @@
 #define PRINCIPAL_H
 
 #include <QMainWindow>
+#include <QImage>
+#include <QPainter>
+#include <QMouseEvent>
+#include <QPaintEvent>
+#include <QDebug>
+#include <QInputDialog>
+#include <QColorDialog>
+#include <QFileDialog>
+#include <QMessageBox>
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class Principal; }
