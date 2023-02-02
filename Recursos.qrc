@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Recursos/abrir-carpeta-con-documento.png</file>
+        <file>Recursos/anchura.png</file>
+        <file>Recursos/archivo-nuevo.png</file>
+        <file>Recursos/circulo-de-color.png</file>
+        <file>Recursos/contorno-de-forma-geometrica-rectangular.png</file>
+        <file>Recursos/guardar-el-archivo.png</file>
+        <file>Recursos/IconoPrincpial.png</file>
+        <file>Recursos/lavado-en-seco.png</file>
+        <file>Recursos/Libre.png</file>
+        <file>Recursos/linea-diagonal.png</file>
+        <file>Recursos/archivo.png</file>
+        <file>Recursos/Limpiar.png</file>
+    </qresource>
+</RCC>
