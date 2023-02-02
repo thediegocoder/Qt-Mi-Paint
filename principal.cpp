@@ -8,7 +8,7 @@ Principal::Principal(QWidget *parent)
     , ui(new Ui::Principal)
 {
     ui->setupUi(this);
-    setWindowTitle("MI PAINT");
+    setWindowTitle("PAINT");
     // Instanciando la imagen (creando)
     mImagen = new QImage(this->size(),QImage::Format_ARGB32_Premultiplied);
     // Rellenar la imagen de color blanco
